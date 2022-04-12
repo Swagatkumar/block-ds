@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "block-ds",
+  "name": "@block-ds/ui",
   "author": "Swagatkumar",
   "module": "dist/block-design-system.esm.js",
   "size-limit": [
