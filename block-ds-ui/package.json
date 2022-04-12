@@ -37,14 +37,14 @@
   },
   "name": "block-ds-ui",
   "author": "Swagatkumar",
-  "module": "dist/ui.esm.js",
+  "module": "dist/block-ds-ui.esm.js",
   "size-limit": [
     {
-      "path": "dist/ui.production.min.js",
+      "path": "dist/block-ds-ui.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/ui.esm.js",
+      "path": "dist/block-ds-ui.esm.js",
       "limit": "10 KB"
     }
   ],
