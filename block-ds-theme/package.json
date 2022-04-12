@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@block-ds/theme",
+  "name": "block-ds-theme",
   "author": "Swagatkumar",
   "module": "dist/theme.esm.js",
   "size-limit": [
