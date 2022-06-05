@@ -35,16 +35,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "block-ds-ui",
+  "name": "block-ui",
   "author": "Swagatkumar",
-  "module": "dist/block-ds-ui.esm.js",
+  "module": "dist/block-ui.esm.js",
   "size-limit": [
     {
-      "path": "dist/block-ds-ui.production.min.js",
+      "path": "dist/block-ui.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/block-ds-ui.esm.js",
+      "path": "dist/block-ui.esm.js",
       "limit": "10 KB"
     }
   ],
@@ -71,6 +71,7 @@
   },
   "dependencies": {
     "@types/styled-components": "^5.1.25",
+    "block-theme": "^1.0.0",
     "styled-components": "^5.3.5"
   }
 }

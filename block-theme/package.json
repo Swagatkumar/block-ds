@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0-alpha.1",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -31,16 +31,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "block-ds-theme",
+  "name": "block-theme",
   "author": "Swagatkumar",
-  "module": "dist/block-ds-theme.esm.js",
+  "module": "dist/block-theme.esm.js",
   "size-limit": [
     {
-      "path": "dist/block-ds-theme.cjs.production.min.js",
+      "path": "dist/block-theme.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/block-ds-theme.esm.js",
+      "path": "dist/block-theme.esm.js",
       "limit": "10 KB"
     }
   ],
