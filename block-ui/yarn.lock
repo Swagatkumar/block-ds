@@ -3995,10 +3995,10 @@ bindings@^1.5.0:
   dependencies:
     file-uri-to-path "1.0.0"
 
-block-ds-theme@^0.1.0-alpha.1:
-  version "0.1.0-alpha.1"
-  resolved "https://registry.yarnpkg.com/block-ds-theme/-/block-ds-theme-0.1.0-alpha.1.tgz#8f9bdaedc48514b03b89ac261d14a2350abe771c"
-  integrity sha512-/4fcf8ecu71qh3Pur1CZ48rtNdPEUaJg+ZUJqNEFKEicfRcli6CP3Rvx1hjuNAvQrbCeZDhkJnJeWAdFarP//A==
+block-theme@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/block-theme/-/block-theme-1.0.0.tgz#7cfc33ed6c27001340a0f0fdc4110c93b189f5d8"
+  integrity sha512-TisOdVo4O+PLc32ExPG8r82mapMgymFiJ4xNWjiwnXrsG5KBUUcFxjB56ezYhZHUPs8TGyaLW6hHb8aOFKQ/Qw==
 
 bluebird@^3.3.5, bluebird@^3.5.5:
   version "3.7.2"

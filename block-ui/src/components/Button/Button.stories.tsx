@@ -2,7 +2,7 @@ import React from 'react';
 import { Meta, Story } from '@storybook/react';
 import Button, { Props } from '.';
 import { ThemeProvider } from 'styled-components';
-import defaultTheme from 'themes';
+import { defaultTheme } from 'block-theme';
 
 const meta: Meta = {
   title: 'components/Button',
